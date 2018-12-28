@@ -2,4 +2,5 @@
 testing repository
 
 Some text...
-Some new text...
+This is another branch.
+
