@@ -108,3 +108,9 @@ $ 36 $36$ 36 $
 | foo | bar |
 | --- | --- |
 | baz | bim |
+
+# Testy
+
+\# Uložit image do souboru<br>
+**docker save** [**-o** {*soubor*}] {*image*}
+
