@@ -111,6 +111,6 @@ $ 36 $36$ 36 $
 
 # Testy
 
-\# Uložit image do souboru<br>
+*# Uložit image do souboru*<br>
 **docker save** [**-o** {*soubor*}] {*image*}
 
