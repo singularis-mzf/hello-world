@@ -114,3 +114,5 @@ $ 36 $36$ 36 $
 *# Uložit image do souboru*<br>
 **docker save** [**-o** {*soubor*}] {*image*}
 
+*# Uložit image do souboru*<br>
+**docker save** [**-o** {*soubor*}] {*image*}
