@@ -66,7 +66,7 @@ _ 95 \_95_ 95 _
 
 ~ 126 \~126~ 126 ~
 
-\[test](http:&#2f;&#2f;neni.odkaz.cz)
+\[test](http:_//_neni.odkaz.cz)
 
 # Shrnutí
 * Znaky &lt;, &amp; a &gt; nahraďte odpovídajícími entitami *&amp;lt;*, *&amp;amp;* a *&amp;gt;*.
