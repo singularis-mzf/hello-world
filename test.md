@@ -52,9 +52,9 @@ $ 36 $36$ 36 $
 
 ] 93 ]93] 93 ]
 
-^ 94 \^94^ 94 ^
+\^ 94 \^94\^ 94 \^
 
-_ 95 \_95_ 95 _
+\_ 95 \_95\_ 95 \_
 
 \` 96 \`96\` 96 \`
 
@@ -69,10 +69,11 @@ _ 95 \_95_ 95 _
 \[test]\(http:⫽neni.odkaz.cz)
 
 # Shrnutí
-* Znaky &lt;, &amp; a &gt; nahraďte odpovídajícími entitami *&amp;lt;*, *&amp;amp;* a *&amp;gt;*.
-* Znaky \` a \\ vždy escapujte zpětným lomítkem.
-* Znaky \*, \_, `^` a `~` escapujte vložením do zpětných apostrofů všude.
+* Znaky &lt;, &amp; a &gt; vždy nahraďte odpovídajícími entitami *&amp;lt;*, *&amp;amp;* a *&amp;gt;*.
+* Znaky \\, \`, \*, \_, \^ a \~ vždy escapujte zpětným lomítkem.
 * Znaky #, +, - a : escapujte vložením do zpětných apostrofů jen před prvním alfanumerickým znakem řádku.
+* Znak ] escapujte zpětným lomítkem, pokud za ním následuje otevírací kulatá závorka '('.
+* Potřebujete-li zapsat URL adresu, která nemá být formátována jako odkaz, nahraďte // v adrese speciálním znakem ⫽.
 
 ## Markdown
 * ~~přeškrtnutý text~~
