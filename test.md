@@ -1,5 +1,10 @@
 # ASCII
 
+^^Zajímalo by mě, jak se zformátuje toto.
+
+^^**A toto...**<br>
+^^**...**
+
 ␣ 32 ␣ (zvýrazněná mezera) ␣
 
 ! 33 !33! 33 !
