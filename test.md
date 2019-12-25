@@ -1,9 +1,6 @@
 # ASCII
 
-^^Zajímalo by mě, jak se zformátuje toto.
-
-^^**A toto...**<br>
-^^**...**
+* --test :: Test formátování.
 
 ␣ 32 ␣ (zvýrazněná mezera) ␣
 
