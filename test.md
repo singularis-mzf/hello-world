@@ -4,6 +4,8 @@
 
 Další((test)) formátování: ((test)) ?
 
+> `printf %s\\\\n žába čádor tábor chalupa \| LC\_ALL="cz\_CZ.UTF-8" sort`
+
 ␣ 32 ␣ (zvýrazněná mezera) ␣
 
 ! 33 !33! 33 !
