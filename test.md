@@ -2,15 +2,10 @@
 
 * --test :: Test formátování.
 
-Další((test)) formátování: ((test)) ?
+| ID | Název kapitoly | Růst | Stav |
+| :--- | :--- | ---: | :--- |
+| [barvy-a-titulek](barvy.md) | Barvy, titulek a výzva terminálu | 100% | vydána (od verze 1.0) |
 
-> `printf %s\\n žába čádor tábor chalupa | LC_ALL="cs_CZ.UTF-8" sort`
-
-a zkontrolujte, že vypsal řádky v tomto pořadí:
-
-> čádor<br>chalupa<br>tábor<br>žába
-
-Pokud je vypsané pořadí odlišné, můžete se to pokusit napravit instalací balíčků „language-pack-cs“ a „hunspell-cs“, ale neručím za to, že to bude fungovat. Doporučený postup je použít českou lokalizaci systému.
 
 ␣ 32 ␣ (zvýrazněná mezera) ␣
 
