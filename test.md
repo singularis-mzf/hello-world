@@ -2,6 +2,8 @@
 
 * --test :: Test formátování.
 
+* Další test.
+
 | ID | Název kapitoly | Růst | Stav |
 | :--- | :--- | ---: | :--- |
 | [barvy-a-titulek](barvy.md) | Barvy, titulek a výzva terminálu | 100% | vydána (od verze 1.0) |
