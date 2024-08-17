@@ -11,5 +11,6 @@ testing repository
 *// a další řádek už by měl být jen kurzívou.*
 
 Some text...
+Some new text...
 
 <big>Velký text?</big>
