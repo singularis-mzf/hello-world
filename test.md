@@ -127,3 +127,9 @@ $ 36 $36$ 36 $
 Další znaky:
 
 ⚧
+
+Odkazy:
+
+* https://app-share.mailbox.org/appsuite/api/share/06061c7c0bf5124366eea2bbf51248b7b720e1b9b06a1635/1/8/NDc
+* https://cloud.disroot.org/s/5z775BEY8BqkCRr
+
